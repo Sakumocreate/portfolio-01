@@ -1,1 +1,13 @@
-css
+body{
+font-familiy:"Arial",
+background: #f2f2f2;
+padding: 50px;
+}
+h1{
+font-size: 2em;
+margin-botton: 20px;
+}
+button{
+background-color: #ff5252;
+
+}
