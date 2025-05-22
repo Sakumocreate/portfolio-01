@@ -1,4 +1,4 @@
-function drawOmikuji() {
+function bom() {
   const results = [
     "🎉 大吉 🎉",
     "😊 中吉 😊",
@@ -11,3 +11,4 @@ function drawOmikuji() {
   const randomIndex = Math.floor(Math.random() * results.length);
   document.getElementById("result").textContent = results[randomIndex];
 }
+const se = new Audio("audio/ニュッ1.mp3");
