@@ -1,5 +1,6 @@
 <!DOCTYPE HTML>
 
+<!--ホームサイト-->
 <head>
 <meta charset="UTF-8">
 <html lang="ja">
@@ -7,6 +8,7 @@
 <link rel = "styleseet.css"></link>
 </head>
 
+<!--中身 各種リンク-->
 <body>
 <h2>私ってどんな人？</h2>
 
